@@ -1,1 +1,4 @@
-- automate the dataset download from kaggle so we dont have to manually download it 
+- automate the dataset download from kaggle so we dont have to manually download it
+- convert the dataset into multiple tables like companies, locations etc. 
+
+[  "https://www.kaggle.com/nikitagrec/worldwide-job-postings",  "https://www.kaggle.com/promptcloud/indeed-job-postings-dataset",  "https://www.kaggle.com/stackoverflow/stack-overflow-job-postings",  "https://catalog.data.gov/dataset/job-openings-and-labor-turnover-survey-jolts",  "https://catalog.data.gov/dataset/labor-force-statistics-from-the-current-population-survey",  "https://www.glassdoor.com/developer/index.htm",  "https://data.europa.eu/data/datasets/employment-vacancies?locale=en"]
